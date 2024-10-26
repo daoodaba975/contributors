@@ -12,6 +12,12 @@
     "skills": ["JavaScript", "Typescript"],
     "github": "https://github.com/devdiop221",
     "image": "https://avatars.githubusercontent.com/u/64200833?v=4"
-
+  },
+  {
+     "name": "Moctar Mamadou BA",
+      "bio": "\uD83D\uDFE9 Javascript Developer - Front-End - React Native - Expo \uD83D\uDCF1|| React Developer \uD83C\uDF10.",
+      "skills": ["JavaScript", "Python", "ReactJs", "React Native", "Expo", "Wordpress", "Firebase"],
+      "github": "https://github.com/bmaxtar",
+      "image": "https://avatars.githubusercontent.com/u/57157288?v=4"
   }
 ]
