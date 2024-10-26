@@ -1,5 +1,14 @@
 [
+
+
   {
+
+    "name": "Bouna Bin Abdallah Dramé",
+    "bio": "Full Stack Developer .",
+    "skills": ["Laravel", "Angular"],
+    "github": "https://github.com/BounAbdallah/",
+    "image": "https://avatars.githubusercontent.com/u/99214329?s=400&u=0b6e399a64a7bfbe5ef0c83750e5d2c44e0e2da2&v=4"
+
     "name": "Daouda BA",
     "bio": "Full Stack Developer passionate about open-source.",
     "skills": ["JavaScript", "Flutter"],
@@ -12,6 +21,7 @@
     "skills": ["JavaScript", "Typescript"],
     "github": "https://github.com/devdiop221",
     "image": "https://avatars.githubusercontent.com/u/64200833?v=4"
+
 
   }
 ]
