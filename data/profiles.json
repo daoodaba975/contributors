@@ -12,6 +12,12 @@
     "skills": ["JavaScript", "Typescript"],
     "github": "https://github.com/devdiop221",
     "image": "https://avatars.githubusercontent.com/u/64200833?v=4"
-
+  },
+  {
+    "name": "Mamadou Sarr",
+    "bio": "I'm FullStack Developer from Senegal.",
+    "skills": ["JavaScript", "Typescript", "Python", "JAVA"],
+    "github": "https://github.com/mouhamed1296",
+    "image": "https://avatars.githubusercontent.com/u/60544454?v=4"
   }
 ]
