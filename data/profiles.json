@@ -5,5 +5,12 @@
     "skills": ["JavaScript", "Flutter"],
     "github": "https://github.com/daoodaba975",
     "image": "https://avatars.githubusercontent.com/u/46088908?v=4"
+  },
+  {
+    "name": "Mouhammad Ndour",
+    "bio": "Full Stack Developer & UX/UI Designer.",
+    "skills": ["Laravel", "Angular", "Vue.js", "Figma"],
+    "github": "https://github.com/ndourmouhammad",
+    "image": "https://avatars.githubusercontent.com/u/123220695?v=4"
   }
 ]
