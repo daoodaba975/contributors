@@ -12,7 +12,8 @@
     "skills": ["JavaScript", "TypeScript"],
     "github": "https://github.com/GalsenDev221",
     "image": "https://avatars.githubusercontent.com/u/46088968?s=200&v=4"
-  }
+  },
+  {
     "name": "Mouhamed Diop",
     "bio": "I'm a passionate Full Stack Developer from Senegal.",
     "skills": ["JavaScript", "Typescript"],
@@ -39,4 +40,11 @@
     "github": "https://github.com/benbasse",
     "image": "https://avatars.githubusercontent.com/u/132558180?v=4"
   },
+  {
+    "name": "Abhijit",
+    "bio": "Full Stack Developer, open source enthusiast, loves to contribute to open source projects.",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB","Express"],
+    "github": "https://github.com/Abhi8756",
+    "image": "https://avatars.githubusercontent.com/u/140577178?v=4"
+  }
 ]
