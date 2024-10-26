@@ -12,6 +12,12 @@
     "skills": ["JavaScript", "Typescript"],
     "github": "https://github.com/devdiop221",
     "image": "https://avatars.githubusercontent.com/u/64200833?v=4"
-
+  },
+  {
+    "name": "El Hadji Malick Seck",
+    "bio": "Full Stack Developer 👨🏾‍💻 | Open Source Enthusiast | Otaku ⛩️",
+    "skills": ["HTML", "CSS"],
+    "github": "https://github.com/takanome-dev",
+    "image": "https://avatars.githubusercontent.com/u/79809121?v=4"
   }
 ]
