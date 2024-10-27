@@ -12,12 +12,25 @@
     "skills": ["JavaScript", "TypeScript"],
     "github": "https://github.com/GalsenDev221",
     "image": "https://avatars.githubusercontent.com/u/46088968?s=200&v=4"
-  }
+  },
+  {
     "name": "Mouhamed Diop",
     "bio": "I'm a passionate Full Stack Developer from Senegal.",
     "skills": ["JavaScript", "Typescript"],
     "github": "https://github.com/devdiop221",
     "image": "https://avatars.githubusercontent.com/u/64200833?v=4"
+
+
+  },
+  {
+    "name": "Elimane GNING",
+    "bio": " Full Stack Developer  junior from Senegal.",
+    "skills": ["JavaScript", "Typescript","laravel"],
+    "github": "https://github.com",
+    "image": "https://avatars.githubusercontent.com/u/162431334?v=4"
+
+  }
+
   },
   {
     "name": "Ben Basse",
@@ -39,4 +52,5 @@
     "github": "https://github.com/benbasse",
     "image": "https://avatars.githubusercontent.com/u/132558180?v=4"
   },
+
 ]
