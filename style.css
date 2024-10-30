@@ -21,7 +21,7 @@ body {
   align-items: center;
   flex-direction: column;
   background-color: var(--text-light);
-  color: var(--text-color);
+
   opacity: 0;
   transform: translateY(40px);
   animation: fadeIn 0.5s ease forwards;
@@ -29,6 +29,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 header {
@@ -159,6 +160,11 @@ h1 {
 
 .pagination-button:hover:not(.active) {
   background-color: var(--text-light);
+}
+
+body .error-message {
+  text-align: center;
+  margin-top: 20px;
 }
 
 @keyframes fadeIn {

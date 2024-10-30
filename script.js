@@ -5,12 +5,21 @@ let profiles = [];
 async function loadProfiles() {
   try {
     const response = await fetch("./data/profiles.json");
+    if (!response.ok) {
+      throw new Error(`Erreur ${response.status}: Impossible de charger les profils.`);
+    }
     profiles = await response.json();
     displayProfiles();
     setupPagination();
   } catch (error) {
-    console.error("Error loading profiles:", error);
+    displayError(error.message || "Erreur lors du chargement des profils. Veuillez réessayer plus tard.");
   }
+}
+
+function displayError(message) {
+  const errorMessageContainer = document.getElementById("error-message");
+  errorMessageContainer.style.color = '#ff0000';
+  errorMessageContainer.textContent = message;
 }
 
 function displayProfiles() {
