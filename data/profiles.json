@@ -187,5 +187,12 @@
     "skills": ["JavaScript", "Angular"],
     "github": "https://github.com/babs990",
     "image": "https://avatars.githubusercontent.com/u/159585143?v=4"
+  },
+  {
+    "name": "Mame Diarra Laye Djité",
+    "bio": "Full Stack Developer passionate about open-source and Programmation.",
+    "skills": ["JavaScript", "Python", "PHP", "Docker"],
+    "github": "https://github.com/MameDiarraLayeDjite",
+    "image": " https://avatars.githubusercontent.com/u/202289714?v=4"
   }
 ]
